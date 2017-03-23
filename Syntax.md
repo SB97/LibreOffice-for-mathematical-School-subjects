@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
   * [Legende](#legende)
-  * [Allgemeiner Syntax](#allgemeinersyntax)
+  * [Allgemeiner Syntax](#allgemeiner-syntax)
   * [Sonderzeichen](#sonderzeichen)
   * [Mathematik](#mathematik)
 
