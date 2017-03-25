@@ -1,1 +1,0 @@
-# Anleitung: LibreOffice Writer Konfiguration
